@@ -1,14 +1,16 @@
 clear
 echo "" 
 echo "Device Hardware & System Information"
+echo ""
 getprop | grep -e 'model' -e 'product.name' -e 'hardware' -e 'manufacturer' -e 'imei' 
+echo ""
 echo ""
 echo WELCOME TO PROJECT VIPER VERIFICATION | lolcat 
 sleep 5
 echo "" 
 echo Hello there, enter your details...Full Name? 
 
-read name
+read name | lolcat
 echo "" 
 echo please enter your Phone no for verification!
 
@@ -21,21 +23,23 @@ echo Not Connect...Trying Again for Bridge Connection...
 sleep 15
 echo "" 
 echo Connect established via tcp404 port
-sleep 1
+sleep 2
 echo Verification start
 echo Connecting to Server...Network is slow
-sleep 4
+sleep 6
 echo Verifying details for verification....
-sleep 5
+sleep 10
 echo ""
-echo Your details $name $volume is not valid for VIP MEMBERSHIP
+echo Your details $name $volume
+echo is not valid for VIP MEMBERSHIP...
+echo "" 
 sleep 5
 echo BUY VIP for more details please visit 
-sleep 2
+sleep 4
 echo "" 
 echo Contact on Telegram @red_dimension_x | lolcat
 
-sleep 2
+sleep 3
 figlet PROJECT | lolcat 
 sleep 1
 figlet VIPER | lolcat
