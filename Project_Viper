@@ -1,0 +1,28 @@
+getprop | grep -e 'model' -e 'product.name' -e 'hardware' -e 'manufacturer' -e 'imei' 
+echo 
+echo WELCOME TO PROJECT VIPER VERIFICATION | lolcat 
+sleep 5
+echo Hello there, enter your details...Full Name? 
+
+read name
+
+echo please enter your volume key or Phone no for verification!
+
+read volume
+
+echo Connecting to Server.... 
+
+sleep 15
+echo Not Connect...Trying Again for Bridge Connection... 
+sleep 15
+
+echo Your details $name $volume is not VIP valid for VIP MEMBERSHIP
+
+echo BUY VIP for more details please visit 
+
+echo Contact on Telegram @red_dimension_x | lolcat
+
+
+figlet PROJECT | lolcat 
+figlet VIPER | lolcat
+figlet SHAAN | lolcat
