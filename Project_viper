@@ -74,12 +74,12 @@ echo Contact on Telegram @red_dimension_x | lolcat
 
 sleep 3
 
-figlet PROJECT | lolcat 
+figlet PROJECT | lolcat -a -d 5
 
 sleep 1
 
-figlet VIPER | lolcat
+figlet VIPER | lolcat -a -d 5
 
 sleep 2
 
-figlet SHAAN | lolcat
+figlet SHAAN | lolcat -a -d 3
