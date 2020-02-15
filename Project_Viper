@@ -1,8 +1,11 @@
+clear
+echo "" 
 echo "Device Hardware & System Information"
 getprop | grep -e 'model' -e 'product.name' -e 'hardware' -e 'manufacturer' -e 'imei' 
 echo ""
 echo WELCOME TO PROJECT VIPER VERIFICATION | lolcat 
 sleep 5
+echo "" 
 echo Hello there, enter your details...Full Name? 
 
 read name
@@ -19,7 +22,7 @@ sleep 15
 echo Connect established via tcp404 port
 sleep 1
 echo Verification start
-echo Connecting to Server... (Network is slow)
+echo Connecting to Server...Network is slow
 sleep 2
 echo Verifying details for verification....
 echo Your details $name $volume is not VIP valid for VIP MEMBERSHIP
