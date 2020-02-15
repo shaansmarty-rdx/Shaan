@@ -9,26 +9,30 @@ echo ""
 echo Hello there, enter your details...Full Name? 
 
 read name
-
+echo "" 
 echo please enter your Phone no for verification!
 
 read volume
-
+echo "" 
 echo Connecting to Server.... 
 
 sleep 15
 echo Not Connect...Trying Again for Bridge Connection... 
 sleep 15
+echo "" 
 echo Connect established via tcp404 port
 sleep 1
 echo Verification start
 echo Connecting to Server...Network is slow
-sleep 2
+sleep 4
 echo Verifying details for verification....
-echo Your details $name $volume is not VIP valid for VIP MEMBERSHIP
-sleep 2
+sleep 5
+echo ""
+echo Your details $name $volume is not valid for VIP MEMBERSHIP
+sleep 5
 echo BUY VIP for more details please visit 
 sleep 2
+echo "" 
 echo Contact on Telegram @red_dimension_x | lolcat
 
 sleep 2
