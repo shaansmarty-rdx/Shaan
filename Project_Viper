@@ -10,7 +10,7 @@ sleep 5
 echo "" 
 echo Hello there, enter your details...Full Name? 
 
-read name | lolcat
+read name
 echo "" 
 echo please enter your Phone no for verification!
 
