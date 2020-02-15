@@ -8,6 +8,8 @@ read volume
 
 echo Connecting to Server.... 
 
+sleep 10
+
 echo Your details $name $volume is not VIP...
 
 echo BUY VIP
