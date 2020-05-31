@@ -1,3 +1,10 @@
+pkg up -y && pkg upgrade -y
+
+time apt install toilet ruby
+
+#lolcat theme
+gem install lolcat
+
 clear
 
 echo "" 
@@ -58,7 +65,7 @@ echo ""
 
 echo Your details $name $volume
 
-echo is not valid for VIP MEMBERSHIP...
+echo is registered for NON ROOT ESP MEMBERSHIP...
 
 echo "" 
 
@@ -78,8 +85,8 @@ figlet PROJECT | lolcat -a -d 5
 
 sleep 1
 
-figlet VIPER | lolcat -a -d 5
+figlet NON ROOT ESP | lolcat -a -d 5
 
 sleep 2
 
-figlet SHAAN | lolcat -a -d 3
+figlet DESI & RDX| lolcat -a -d 3
