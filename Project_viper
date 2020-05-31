@@ -4,6 +4,7 @@ time apt install toilet ruby
 
 #lolcat theme
 gem install lolcat
+pkg install figlet
 
 clear
 
@@ -19,13 +20,13 @@ echo ""
 
 echo ""
 
-echo WELCOME TO PROJECT VIPER VERIFICATION | lolcat 
+echo WELCOME TO PROJECT NON ROOT ESP VERIFICATION | lolcat 
 
 sleep 5
 
 echo "" 
 
-echo Hello there, enter your details...Full Name? 
+echo Hello there, Enter your details...Full Name? 
 
 read name
 
@@ -77,7 +78,7 @@ sleep 4
 
 echo "" 
 
-echo Contact on Telegram @red_dimension_x | lolcat
+echo Contact on Telegram @RDX_HACKS @ShaanSmarty | lolcat
 
 sleep 3
 
