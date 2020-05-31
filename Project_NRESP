@@ -86,8 +86,8 @@ figlet PROJECT | lolcat -a -d 5
 
 sleep 1
 
-figlet NON ROOT ESP | lolcat -a -d 5
+figlet NONROOT | lolcat -a -d 5
 
 sleep 2
 
-figlet DESI & RDX| lolcat -a -d 3
+figlet ESPv2 | lolcat -a -d 3
