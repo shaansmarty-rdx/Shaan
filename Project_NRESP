@@ -18,9 +18,9 @@ getprop | grep -e 'model' -e 'product.name' -e 'hardware' -e 'manufacturer' -e '
 
 echo ""
 
-echo ╔═══════════════════════════════════════════╗
-echo    WELCOME TO PROJECT NONROOT¦ROOT ESP VERIFICATION | lolcat 
-echo ╚═══════════════════════════════════════════╝
+echo ╔══════════════════════════════════════════════╗
+echo  WELCOME TO PROJECT NONROOT¦ROOT ESP VERIFICATION | lolcat 
+echo ╚══════════════════════════════════════════════╝
 
 sleep 5
 
