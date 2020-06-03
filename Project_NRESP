@@ -58,6 +58,8 @@ echo Connecting to Server...Network is slow
 
 sleep 6
 
+echo "" 
+
 echo Verifying details for verification....
 
 sleep 10
@@ -74,7 +76,7 @@ echo Still Account is not Activated...To Activate
 
 sleep 1
 
-echo Pay at shaan(RDX) or Ikosham(IkoshamHacks)...Please Wait...
+echo Pay at shaan-RDX or Ikosham-IkoshamHacks...Please Wait...
 
 sleep 25
 
