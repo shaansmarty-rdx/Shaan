@@ -66,11 +66,17 @@ echo ""
 
 echo Your details $name $volume
 
-echo is registered for NON ROOT ESP MEMBERSHIP...
+echo is registered for ROOT ESP MEMBERSHIP...
 
 echo "" 
 
-sleep 5
+echo Still Account is not Activated, To Activate
+
+sleep 1
+
+echo Pay @shaan(RDX)/Ikosham(IkoshamHacks)...Please Wait...
+
+sleep 25
 
 echo BUY VIP for more details please visit 
 
@@ -86,7 +92,7 @@ figlet PROJECT | lolcat -a -d 5
 
 sleep 1
 
-figlet NONROOT | lolcat -a -d 5
+figlet ROOT | lolcat -a -d 5
 
 sleep 2
 
