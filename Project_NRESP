@@ -76,7 +76,11 @@ echo Still Account is not Activated...To Activate
 
 sleep 1
 
-echo Pay at shaan-RDX or Ikosham-IkoshamHacks...Please Wait...
+echo Pay at shaan-RDX or Ikosham-IkoshamHacks...
+
+echo "" 
+
+echo "PLEASE WAIT... PROCESSING 
 
 sleep 25
 
